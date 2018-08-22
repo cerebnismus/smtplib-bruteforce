@@ -1,2 +1,2 @@
 # smtplib-bruteforce
-Gmail'e yönelik kabakuvvet 
+Only for gmail accounts
