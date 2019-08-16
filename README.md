@@ -1,2 +1,2 @@
 # smtplib-bruteforce
-Only for gmail accounts
+Only for gmail accounts, too old..
