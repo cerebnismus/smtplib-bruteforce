@@ -1,5 +1,5 @@
 <img src="icon.png" align="right" />
-
+[![CircleCI](https://circleci.com/gh/oguzhanlarca/smtplib-bruteforce/tree/master.svg?style=svg)](https://circleci.com/gh/oguzhanlarca/smtplib-bruteforce/tree/master)
 ## Dependencies
 ```
 $ python3.7
