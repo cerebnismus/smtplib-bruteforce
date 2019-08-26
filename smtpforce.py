@@ -5,7 +5,7 @@ from smtplib import SMTP
 from smtplib import SMTP_SSL
 from smtplib import SMTPAuthenticationError
 import string
-import sys # redirect stdout to a file
+import sys # redirect stdout & stderr to a log file
 import re # search pattern
 
 def trial_without_ssl(mail_user, mail_pass): 
