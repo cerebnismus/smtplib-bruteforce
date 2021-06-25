@@ -7,8 +7,6 @@ $ cd smtplib-bruteforce
 $ python3 smtplib-bruteforce
 ```
 
-[![CircleCI](https://circleci.com/gh/oguzhanlarca/smtplib-bruteforce/tree/master.svg?style=svg)](https://circleci.com/gh/oguzhanlarca/smtplib-bruteforce/tree/master)
-
 ## Prevent Webmail Attacks
 Using at least two-factor authentication, such as RSA Security Inc.'s hardware SecurID token. These tokens fit in the palm of your hand, and they display a different password for every login. The password is never repeated, and the odds of guessing it at the right time are extremely small. The user generally also types in a personal PIN, combining the hardware token (something you have) with the PIN (something you know). There are also many other ways to implement two-factor authentication, such as software-based authenticators or cell phone-based systems.
 
